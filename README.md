@@ -6,7 +6,11 @@ You need to install git and proot in Termux before using this script.
 pkg install git proot
 
 git clone https://github.com/GYKgamer/Termux-Ubuntu
+
 cd Termux-Ubuntu
+
 chmod +x ubuntu.sh
+
 ./ubuntu.sh
+
 After running it you can run "./start-ubuntu.sh" to switch into your ubuntu
