@@ -13,4 +13,6 @@ chmod +x ubuntu.sh
 
 ./ubuntu.sh
 
+termux-setup-storgae
+
 After running it you can run "./start-ubuntu.sh" to switch into your ubuntu
